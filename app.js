@@ -3,14 +3,14 @@ var vat = .15; // 15% vat will apply.
 
 //<-----1st --->
 
-var priceOne = 24000;;
+var priceOne = 1200;;
 var elementQuantityOne = document.getElementById("quantity-one");
 var elementPriceOne = document.getElementById("price-one");
 var plusOne = document.getElementById("increment-one");
 var minusOne = document.getElementById("decrement-one");
 var removeOne = document.getElementById("remove-one");
 //<-----2nd --->
-var priceTwo = 12000;
+var priceTwo = 50;
 var elementQuantitySecond = document.getElementById("quantity-two");
 var elementPriceSecond = document.getElementById("price-two");
 var plusTwo = document.getElementById("increment-two");
